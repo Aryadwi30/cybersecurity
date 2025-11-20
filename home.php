@@ -24,7 +24,10 @@ if ($result && $result->num_rows === 1) {
     $row = $result->fetch_assoc();
     $_SESSION['username'] = $row['username'];
     header('Location: protected.php');
-    exit;
+    exit
+            echo "Simulai XSS ".$row['username'];
+
+        ;
 } else {
     echo "Login gagal. <a href='index.php'>Kembali</a>";
 }
