@@ -249,7 +249,7 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 ---
 
-#12) REPORTS HOSTEDSCAN:
+# 12) REPORTS HOSTEDSCAN :
 [37b42fe4-8ad1-4c13-9d61-733202235a73.pdf](https://github.com/user-attachments/files/24486610/37b42fe4-8ad1-4c13-9d61-733202235a73.pdf)
 
 ---
